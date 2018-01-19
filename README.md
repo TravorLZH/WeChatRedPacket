@@ -1,4 +1,4 @@
-WeChat Red Packet (微信红包)
+<a href="https://www.gnu.org/licenses/gpl-3.0.html">![License](https://www.gnu.org/graphics/gplv3-88x31.png "GNU General Public License v3.0")</a> WeChat Red Packet (微信红包)
 =======
 > This project is created for testing my ability to design website.
 

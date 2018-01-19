@@ -2,7 +2,7 @@
 
 > This project is created for testing my ability to design website.
 
-> 我第一个含中文的仓库
+> 我第一个含中文的仓库（我是中国人:joy:）
 
 I have spent half an hour to develop the first version of the red packet.
 
